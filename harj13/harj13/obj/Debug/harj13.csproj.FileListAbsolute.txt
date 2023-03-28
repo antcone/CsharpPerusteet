@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\bin\Debug\harj13.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\bin\Debug\harj13.exe
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\bin\Debug\harj13.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\obj\Debug\harj13.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\obj\Debug\harj13.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\obj\Debug\harj13.exe
+C:\Users\maiju.siltaniemi\source\repos\harj13\harj13\obj\Debug\harj13.pdb

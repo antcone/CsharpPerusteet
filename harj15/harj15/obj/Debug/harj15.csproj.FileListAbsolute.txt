@@ -1,0 +1,6 @@
+C:\Users\maiju.siltaniemi\source\repos\harj15\harj15\obj\Debug\harj15.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj15\harj15\bin\Debug\harj15.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj15\harj15\bin\Debug\harj15.exe
+C:\Users\maiju.siltaniemi\source\repos\harj15\harj15\bin\Debug\harj15.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj15\harj15\obj\Debug\harj15.exe
+C:\Users\maiju.siltaniemi\source\repos\harj15\harj15\obj\Debug\harj15.pdb

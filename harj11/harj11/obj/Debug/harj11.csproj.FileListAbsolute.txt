@@ -1,0 +1,6 @@
+C:\Users\maiju.siltaniemi\source\repos\harj11\harj11\bin\Debug\harj11.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj11\harj11\bin\Debug\harj11.exe
+C:\Users\maiju.siltaniemi\source\repos\harj11\harj11\bin\Debug\harj11.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj11\harj11\obj\Debug\harj11.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj11\harj11\obj\Debug\harj11.exe
+C:\Users\maiju.siltaniemi\source\repos\harj11\harj11\obj\Debug\harj11.pdb

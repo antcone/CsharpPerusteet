@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\obj\Debug\lahi28.3.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\obj\Debug\lahi28.3.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\bin\Debug\lahi28.3.exe.config
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\bin\Debug\lahi28.3.exe
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\bin\Debug\lahi28.3.pdb
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\obj\Debug\lahi28.3.exe
+C:\Users\maiju.siltaniemi\source\repos\lahi28.3\lahi28.3\obj\Debug\lahi28.3.pdb

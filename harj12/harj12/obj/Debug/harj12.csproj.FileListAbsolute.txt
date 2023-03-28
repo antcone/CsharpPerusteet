@@ -1,0 +1,6 @@
+C:\Users\maiju.siltaniemi\source\repos\harj12\harj12\obj\Debug\harj12.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj12\harj12\bin\Debug\harj12.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj12\harj12\bin\Debug\harj12.exe
+C:\Users\maiju.siltaniemi\source\repos\harj12\harj12\bin\Debug\harj12.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj12\harj12\obj\Debug\harj12.exe
+C:\Users\maiju.siltaniemi\source\repos\harj12\harj12\obj\Debug\harj12.pdb
