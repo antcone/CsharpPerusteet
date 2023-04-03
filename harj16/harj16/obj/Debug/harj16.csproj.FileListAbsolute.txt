@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\obj\Debug\harj16.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\obj\Debug\harj16.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\bin\Debug\harj16.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\bin\Debug\harj16.exe
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\bin\Debug\harj16.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\obj\Debug\harj16.exe
+C:\Users\maiju.siltaniemi\source\repos\harj16\harj16\obj\Debug\harj16.pdb
