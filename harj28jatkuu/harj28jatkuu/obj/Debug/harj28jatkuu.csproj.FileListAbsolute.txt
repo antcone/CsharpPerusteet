@@ -1,0 +1,6 @@
+C:\Users\maiju.siltaniemi\source\repos\harj28jatkuu\harj28jatkuu\obj\Debug\harj28jatkuu.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj28jatkuu\harj28jatkuu\bin\Debug\harj28jatkuu.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj28jatkuu\harj28jatkuu\bin\Debug\harj28jatkuu.exe
+C:\Users\maiju.siltaniemi\source\repos\harj28jatkuu\harj28jatkuu\bin\Debug\harj28jatkuu.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj28jatkuu\harj28jatkuu\obj\Debug\harj28jatkuu.exe
+C:\Users\maiju.siltaniemi\source\repos\harj28jatkuu\harj28jatkuu\obj\Debug\harj28jatkuu.pdb
