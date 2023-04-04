@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\bin\Debug\harj27.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\bin\Debug\harj27.exe
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\bin\Debug\harj27.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\obj\Debug\harj27.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\obj\Debug\harj27.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\obj\Debug\harj27.exe
+C:\Users\maiju.siltaniemi\source\repos\harj27\harj27\obj\Debug\harj27.pdb
