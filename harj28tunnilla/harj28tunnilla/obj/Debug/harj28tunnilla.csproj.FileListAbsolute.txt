@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\bin\Debug\harj28tunnilla.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\bin\Debug\harj28tunnilla.exe
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\bin\Debug\harj28tunnilla.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\obj\Debug\harj28tunnilla.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\obj\Debug\harj28tunnilla.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\obj\Debug\harj28tunnilla.exe
+C:\Users\maiju.siltaniemi\source\repos\harj28tunnilla\harj28tunnilla\obj\Debug\harj28tunnilla.pdb
