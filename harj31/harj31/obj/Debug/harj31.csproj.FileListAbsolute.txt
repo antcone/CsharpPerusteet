@@ -1,0 +1,6 @@
+C:\Users\maiju.siltaniemi\source\repos\harj31\harj31\bin\Debug\harj31.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj31\harj31\bin\Debug\harj31.exe
+C:\Users\maiju.siltaniemi\source\repos\harj31\harj31\bin\Debug\harj31.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj31\harj31\obj\Debug\harj31.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj31\harj31\obj\Debug\harj31.exe
+C:\Users\maiju.siltaniemi\source\repos\harj31\harj31\obj\Debug\harj31.pdb
