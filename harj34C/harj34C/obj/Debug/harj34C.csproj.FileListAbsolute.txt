@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\obj\Debug\harj34C.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\obj\Debug\harj34C.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\bin\Debug\harj34C.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\bin\Debug\harj34C.exe
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\bin\Debug\harj34C.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\obj\Debug\harj34C.exe
+C:\Users\maiju.siltaniemi\source\repos\harj34C\harj34C\obj\Debug\harj34C.pdb
