@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\bin\Debug\11.4.lähi.exe.config
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\bin\Debug\11.4.lähi.exe
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\bin\Debug\11.4.lähi.pdb
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\obj\Debug\11.4.lähi.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\obj\Debug\11.4.lähi.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\obj\Debug\11.4.lähi.exe
+C:\Users\maiju.siltaniemi\source\repos\11.4.lähi\11.4.lähi\obj\Debug\11.4.lähi.pdb
