@@ -1,0 +1,7 @@
+C:\Users\thlas\source\repos\harj14\harj14\bin\Debug\harj14.exe.config
+C:\Users\thlas\source\repos\harj14\harj14\bin\Debug\harj14.exe
+C:\Users\thlas\source\repos\harj14\harj14\bin\Debug\harj14.pdb
+C:\Users\thlas\source\repos\harj14\harj14\obj\Debug\harj14.csproj.AssemblyReference.cache
+C:\Users\thlas\source\repos\harj14\harj14\obj\Debug\harj14.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\harj14\harj14\obj\Debug\harj14.exe
+C:\Users\thlas\source\repos\harj14\harj14\obj\Debug\harj14.pdb

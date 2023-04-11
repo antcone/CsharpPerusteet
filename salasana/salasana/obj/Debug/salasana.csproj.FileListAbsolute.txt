@@ -1,0 +1,7 @@
+C:\Users\thlas\source\repos\salasana\salasana\bin\Debug\salasana.exe.config
+C:\Users\thlas\source\repos\salasana\salasana\bin\Debug\salasana.exe
+C:\Users\thlas\source\repos\salasana\salasana\bin\Debug\salasana.pdb
+C:\Users\thlas\source\repos\salasana\salasana\obj\Debug\salasana.csproj.AssemblyReference.cache
+C:\Users\thlas\source\repos\salasana\salasana\obj\Debug\salasana.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\salasana\salasana\obj\Debug\salasana.exe
+C:\Users\thlas\source\repos\salasana\salasana\obj\Debug\salasana.pdb

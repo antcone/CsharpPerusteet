@@ -1,0 +1,7 @@
+C:\Users\thlas\source\repos\harj19\harj19\obj\Debug\harj19.csproj.AssemblyReference.cache
+C:\Users\thlas\source\repos\harj19\harj19\obj\Debug\harj19.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\harj19\harj19\bin\Debug\harj19.exe.config
+C:\Users\thlas\source\repos\harj19\harj19\bin\Debug\harj19.exe
+C:\Users\thlas\source\repos\harj19\harj19\bin\Debug\harj19.pdb
+C:\Users\thlas\source\repos\harj19\harj19\obj\Debug\harj19.exe
+C:\Users\thlas\source\repos\harj19\harj19\obj\Debug\harj19.pdb

@@ -1,0 +1,6 @@
+C:\Users\thlas\source\repos\testailua\testailua\bin\Debug\testailua.exe.config
+C:\Users\thlas\source\repos\testailua\testailua\bin\Debug\testailua.exe
+C:\Users\thlas\source\repos\testailua\testailua\bin\Debug\testailua.pdb
+C:\Users\thlas\source\repos\testailua\testailua\obj\Debug\testailua.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\testailua\testailua\obj\Debug\testailua.exe
+C:\Users\thlas\source\repos\testailua\testailua\obj\Debug\testailua.pdb

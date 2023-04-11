@@ -1,0 +1,7 @@
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\bin\Debug\forJaSwitch.exe.config
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\bin\Debug\forJaSwitch.exe
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\bin\Debug\forJaSwitch.pdb
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\obj\Debug\forJaSwitch.csproj.AssemblyReference.cache
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\obj\Debug\forJaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\obj\Debug\forJaSwitch.exe
+C:\Users\thlas\source\repos\forJaSwitch\forJaSwitch\obj\Debug\forJaSwitch.pdb

@@ -1,0 +1,7 @@
+C:\Users\thlas\source\repos\harj26\harj26\bin\Debug\harj26.exe.config
+C:\Users\thlas\source\repos\harj26\harj26\bin\Debug\harj26.exe
+C:\Users\thlas\source\repos\harj26\harj26\bin\Debug\harj26.pdb
+C:\Users\thlas\source\repos\harj26\harj26\obj\Debug\harj26.csproj.AssemblyReference.cache
+C:\Users\thlas\source\repos\harj26\harj26\obj\Debug\harj26.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\harj26\harj26\obj\Debug\harj26.exe
+C:\Users\thlas\source\repos\harj26\harj26\obj\Debug\harj26.pdb
