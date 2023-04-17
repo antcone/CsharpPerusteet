@@ -17,6 +17,7 @@ namespace harj37C
 
             //https://moodle.sakky.fi/mod/assign/view.php?id=1159662
 
+            //en usko et tää on kovin hyvä näin
             int measurings = 4;
             double[] temperaturesArray = new double[measurings];
 
@@ -24,10 +25,10 @@ namespace harj37C
 
             double input = 0;
 
-            for (int i=0; i<measurings; i++)
+            for (int i = 0; i < measurings; i++)
             {
 
-                Console.WriteLine($"Anna {i+1}. mittaustulos:");
+                Console.WriteLine($"Anna {i + 1}. mittaustulos:");
 
                 input = double.Parse(Console.ReadLine());
                 temperaturesArray[i] = input;
@@ -50,16 +51,16 @@ namespace harj37C
             //samalla tavalla haetaan pienin luku
             double max = temperaturesArray[0];
             double min = temperaturesArray[0];
-            double sum = 0; 
+            double sum = 0;
 
-            for(int i=0; i<temperaturesArray.Length; i++ )
+            for (int i = 0; i < temperaturesArray.Length; i++)
 
             {
-                if (temperaturesArray[i]>max)  //etsitään suurin luku
+                if (temperaturesArray[i] > max)  //etsitään suurin luku
 
-                
+
                     max = temperaturesArray[i];
-                
+
 
                 if (temperaturesArray[i] < min)  //etsitään pienin luku
 
@@ -78,6 +79,7 @@ namespace harj37C
 
 
             //Listan suurin, pienin ja keskimäärä metodeilla 
+            //no jaa, ne on niin samanlaiset ku Arraylla?
 
             Console.WriteLine("Lista:");
             Console.WriteLine($"Keskiarvo: {temperaturesList.Average()}");
@@ -86,28 +88,30 @@ namespace harj37C
             Console.WriteLine(average);
 
 
+            //tää oli jokin yritelmä tehdä tuple
 
             (double doubleTemp, int intTime)[] timesWithTemps = new (double, int)[temperaturesArray.Length];
 
             int time = 0;
             for (int i = 0; i < temperaturesArray.Length; i++)
 
-                
+
             {
-                Console.WriteLine($"Anna {i+1}. mittaustulos:");
+                Console.WriteLine($"Anna {i + 1}. mittaustulos:");
 
                 input = double.Parse(Console.ReadLine());
-                time = time + 6;  //haha lol 
-                timesWithTemps[i] = (input, time) ;
+                time = time + 6;  //haha lol. No kun lämpötila mitataan kuuden tunnin välein ni tällee hupsusti saadaan se kellonaika
+                timesWithTemps[i] = (input, time);
 
-                Console.WriteLine(timesWithTemps[i]);
+                // Console.WriteLine(timesWithTemps[i]);
             }
 
 
+            Console.WriteLine("Mittaustulos, kellonaika");
+            Console.WriteLine("suurin " + timesWithTemps.Max());
+            Console.WriteLine("pienin " + timesWithTemps.Min());
+            ;
 
-            Console.Write(timesWithTemps.Max());
-
-            
 
 
 
