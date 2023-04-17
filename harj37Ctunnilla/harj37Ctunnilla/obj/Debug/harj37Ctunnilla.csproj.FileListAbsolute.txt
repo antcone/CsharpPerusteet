@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\bin\Debug\harj37Ctunnilla.exe.config
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\bin\Debug\harj37Ctunnilla.exe
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\bin\Debug\harj37Ctunnilla.pdb
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\obj\Debug\harj37Ctunnilla.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\obj\Debug\harj37Ctunnilla.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\obj\Debug\harj37Ctunnilla.exe
+C:\Users\maiju.siltaniemi\source\repos\harj37Ctunnilla\harj37Ctunnilla\obj\Debug\harj37Ctunnilla.pdb
