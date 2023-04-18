@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\bin\Debug\Verolaskuri.exe.config
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\bin\Debug\Verolaskuri.exe
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\bin\Debug\Verolaskuri.pdb
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.exe
+C:\Users\maiju.siltaniemi\source\repos\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.pdb
