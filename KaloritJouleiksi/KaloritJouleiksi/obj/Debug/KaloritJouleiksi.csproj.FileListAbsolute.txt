@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\bin\Debug\KaloritJouleiksi.exe.config
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\bin\Debug\KaloritJouleiksi.exe
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\bin\Debug\KaloritJouleiksi.pdb
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\obj\Debug\KaloritJouleiksi.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\obj\Debug\KaloritJouleiksi.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\obj\Debug\KaloritJouleiksi.exe
+C:\Users\maiju.siltaniemi\source\repos\KaloritJouleiksi\KaloritJouleiksi\obj\Debug\KaloritJouleiksi.pdb
