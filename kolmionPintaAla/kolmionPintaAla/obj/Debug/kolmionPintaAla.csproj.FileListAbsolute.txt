@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\bin\Debug\kolmionPintaAla.exe.config
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\bin\Debug\kolmionPintaAla.exe
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\bin\Debug\kolmionPintaAla.pdb
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\obj\Debug\kolmionPintaAla.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\obj\Debug\kolmionPintaAla.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\obj\Debug\kolmionPintaAla.exe
+C:\Users\maiju.siltaniemi\source\repos\kolmionPintaAla\kolmionPintaAla\obj\Debug\kolmionPintaAla.pdb

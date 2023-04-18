@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\bin\Debug\reeniä18.4.exe.config
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\bin\Debug\reeniä18.4.exe
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\bin\Debug\reeniä18.4.pdb
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\obj\Debug\reeniä18.4.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\obj\Debug\reeniä18.4.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\obj\Debug\reeniä18.4.exe
+C:\Users\maiju.siltaniemi\source\repos\reeniä18.4\reeniä18.4\obj\Debug\reeniä18.4.pdb
