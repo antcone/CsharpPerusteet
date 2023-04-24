@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\bin\Debug\bensankulutus24.4lähi.exe.config
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\bin\Debug\bensankulutus24.4lähi.exe
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\bin\Debug\bensankulutus24.4lähi.pdb
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\obj\Debug\bensankulutus24.4lähi.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\obj\Debug\bensankulutus24.4lähi.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\obj\Debug\bensankulutus24.4lähi.exe
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus24.4lähi\bensankulutus24.4lähi\obj\Debug\bensankulutus24.4lähi.pdb
