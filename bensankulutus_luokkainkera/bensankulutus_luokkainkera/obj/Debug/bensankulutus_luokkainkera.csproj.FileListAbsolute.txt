@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\bin\Debug\bensankulutus_luokkainkera.exe.config
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\bin\Debug\bensankulutus_luokkainkera.exe
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\bin\Debug\bensankulutus_luokkainkera.pdb
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\obj\Debug\bensankulutus_luokkainkera.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\obj\Debug\bensankulutus_luokkainkera.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\obj\Debug\bensankulutus_luokkainkera.exe
+C:\Users\maiju.siltaniemi\source\repos\bensankulutus_luokkainkera\bensankulutus_luokkainkera\obj\Debug\bensankulutus_luokkainkera.pdb
