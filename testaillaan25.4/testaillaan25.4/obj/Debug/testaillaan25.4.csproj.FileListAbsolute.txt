@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\bin\Debug\testaillaan25.4.exe.config
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\bin\Debug\testaillaan25.4.exe
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\bin\Debug\testaillaan25.4.pdb
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\obj\Debug\testaillaan25.4.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\obj\Debug\testaillaan25.4.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\obj\Debug\testaillaan25.4.exe
+C:\Users\maiju.siltaniemi\source\repos\testaillaan25.4\testaillaan25.4\obj\Debug\testaillaan25.4.pdb

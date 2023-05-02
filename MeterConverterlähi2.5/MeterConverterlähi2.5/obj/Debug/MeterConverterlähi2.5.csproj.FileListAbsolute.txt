@@ -1,0 +1,6 @@
+C:\Users\maiju.siltaniemi\source\repos\MeterConverterlähi2.5\MeterConverterlähi2.5\bin\Debug\MeterConverterlähi2.5.exe.config
+C:\Users\maiju.siltaniemi\source\repos\MeterConverterlähi2.5\MeterConverterlähi2.5\bin\Debug\MeterConverterlähi2.5.exe
+C:\Users\maiju.siltaniemi\source\repos\MeterConverterlähi2.5\MeterConverterlähi2.5\bin\Debug\MeterConverterlähi2.5.pdb
+C:\Users\maiju.siltaniemi\source\repos\MeterConverterlähi2.5\MeterConverterlähi2.5\obj\Debug\MeterConverterlähi2.5.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\MeterConverterlähi2.5\MeterConverterlähi2.5\obj\Debug\MeterConverterlähi2.5.exe
+C:\Users\maiju.siltaniemi\source\repos\MeterConverterlähi2.5\MeterConverterlähi2.5\obj\Debug\MeterConverterlähi2.5.pdb
