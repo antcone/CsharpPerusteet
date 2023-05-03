@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\bin\Debug\Korttibeli.exe.config
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\bin\Debug\Korttibeli.exe
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\bin\Debug\Korttibeli.pdb
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\obj\Debug\Korttibeli.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\obj\Debug\Korttibeli.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\obj\Debug\Korttibeli.exe
+C:\Users\maiju.siltaniemi\source\repos\Korttibeli\Korttibeli\obj\Debug\Korttibeli.pdb
