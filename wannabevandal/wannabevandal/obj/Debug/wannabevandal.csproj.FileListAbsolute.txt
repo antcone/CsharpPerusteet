@@ -1,0 +1,7 @@
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\bin\Debug\wannabevandal.exe.config
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\bin\Debug\wannabevandal.exe
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\bin\Debug\wannabevandal.pdb
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\obj\Debug\wannabevandal.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\obj\Debug\wannabevandal.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\obj\Debug\wannabevandal.exe
+C:\Users\maiju.siltaniemi\source\repos\wannabevandal\wannabevandal\obj\Debug\wannabevandal.pdb
