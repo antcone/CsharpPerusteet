@@ -15,12 +15,13 @@ namespace wannabevandal
         public int CreationYear { get; set; }
         public string MainColour { get; set; }
         public bool Foil { get; set; }
+        public double Price { get; set; }
         
 
         //constructors
 
 
-        public Sticker (string sticker, string artist, int year, string colour, bool foil)
+        public Sticker (string sticker, string artist, int year, string colour, bool foil, double price)
         {
 
             StickerName = sticker;
@@ -28,6 +29,7 @@ namespace wannabevandal
             CreationYear = year;
             MainColour = colour;
             Foil = foil;
+            Price = price;
 
         }
 
@@ -48,7 +50,44 @@ namespace wannabevandal
         }
 
 
+        //tää järjestää tarrat ikäjärjestykseen, uusin ensin
+        public static void SortByCreationYear(List<Sticker> stickers)
 
+        {
+             stickers.Sort((a, b) => b.CreationYear.CompareTo(a.CreationYear));
+        }
+
+
+        //tää saanee tarrat aakkosjärjestykseen
+        public static void SortByStickerName(List<Sticker> stickers)
+
+        {
+            stickers.Sort((a, b) => a.StickerName.CompareTo(b.StickerName));
+        }
+
+        //Tämä järjestää tarrat taiteilijan nimen perusteella aakkosjärjestykseen
+        public static void SortByArtistName(List<Sticker> stickers)
+
+        {
+             stickers.Sort((a, b) => a.ArtistName.CompareTo(b.ArtistName));
+        }
+
+
+        //Jännä värilajittelu?? 
+        public static void SortByColour(List<Sticker> stickers)
+{
+    var groups = stickers.GroupBy(s => s.MainColour);
+
+    foreach (var group in groups)
+    {
+        Console.WriteLine($"Tarrat joiden pääväri on '{group.Key}':");
+
+        foreach (var sticker in group)
+        {
+            Console.WriteLine($"- {sticker.StickerName} by {sticker.ArtistName}, {sticker.CreationYear}");
+        }
+    }
+}
 
 
     }

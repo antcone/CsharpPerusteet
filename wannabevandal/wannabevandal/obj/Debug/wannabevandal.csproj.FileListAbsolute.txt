@@ -12,3 +12,10 @@ C:\Users\thlas\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\
 C:\Users\thlas\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.csproj.CoreCompileInputs.cache
 C:\Users\thlas\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.exe
 C:\Users\thlas\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.pdb
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.exe
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\obj\Debug\wannabevandal.pdb
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\bin\Debug\wannabevandal.exe.config
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\bin\Debug\wannabevandal.exe
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\wannabevandal\wannabevandal\bin\Debug\wannabevandal.pdb
