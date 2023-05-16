@@ -11,15 +11,16 @@ namespace wannabevandal
         static void Main(string[] args)
         {
 
-            Sticker sticky1 = new Sticker("zombiehead", "Able",  2006, "green", false, 1.5);
+            Sticker sticky1 = new Sticker("zombiehead", "Able", 2006, "green", false, 1.5);
             Sticker sticky2 = new Sticker("pincushion", "Vepa", 2012, "silver", true, 3);
-            Sticker sticky3 = new Sticker("reading_owl", "Pöölau",  2021, "pink", false, 1);
-            Sticker sticky4 = new Sticker("able_seaman", "Able",  2011, "blue", false, 2.2);
-            Sticker sticky5 = new Sticker();
+            Sticker sticky3 = new Sticker("reading_owl", "Pöölau", 2021, "black", false, 1);
+            Sticker sticky4 = new Sticker("able_seaman", "Able", 2011, "blue", false, 2.2);
+            Sticker sticky5 = new Sticker("roach", "Tuma", 2011, "black", false, 2.2);
+            // Sticker sticky5 = new Sticker();
 
             //no mä loin noita tarroja, mut haluan ne taulukkoon
-            
-            Sticker[] oldStickers = {sticky1, sticky2, sticky3, sticky4};
+
+            Sticker[] oldStickers = { sticky1, sticky2, sticky3, sticky4, sticky5 };
 
 
             //tää nyt ei tee muuta ku tulostaa tarrojen nimiä 
@@ -33,37 +34,39 @@ namespace wannabevandal
             //Tehhää lista tarroja varten
             List<Sticker> stickers = new List<Sticker>();
 
-            //lisätään aiemman taulukon tavarat tänne
+            //lisätään aiemman taulukon tavarat tänne listaan
             stickers.AddRange(oldStickers);
 
+            bool userNotFinished = true;
 
-            //Luodaan niitä tarroja
-            while(true)
+            //Luodaan lisää tarroja
+            while (userNotFinished)
             {
 
-
-            Console.WriteLine("Anna tekijän nimi: (tai kirjoita 'end')" );
-            string artist = Console.ReadLine();
+                Console.WriteLine("Anna tekijän nimi: (tai kirjoita 'end')");
+                string artist = Console.ReadLine();
                 if (artist.ToLower() == "end")
                 {
-                    break;
+                    userNotFinished = false;
+                    continue;                   // liekö yhtään parempi näin kuin breakin kanssa, mut halusin et tää katkeaa tässä heti
+                                                // ilman continueta se menee luupin loppuun ensin
                 }
 
-            Console.Write("Anna tarran nimi: ");
-            string stickerName = Console.ReadLine();
+                Console.Write("Anna tarran nimi: ");
+                string stickerName = Console.ReadLine();
 
-            Console.Write("Anna tarran tekovuosi: ");
-            int year = int.Parse(Console.ReadLine());
+                Console.Write("Anna tarran tekovuosi: ");
+                int year = int.Parse(Console.ReadLine());
 
-            Console.Write("Anna tarran pääväri: ");
-            string colour  = Console.ReadLine();
+                Console.Write("Anna tarran pääväri: ");
+                string colour = Console.ReadLine();
 
-            Console.Write("Onko tarra foili? K tai E ");
-            char choice = char.Parse(Console.ReadLine());
-            bool foil = choice == 'k' || choice == 'K' ? true : false;
+                Console.Write("Onko tarra foili? K tai E ");
+                char choice = char.Parse(Console.ReadLine());
+                bool foil = choice == 'k' || choice == 'K';  // ? true : false; 
 
-            Console.Write("Anna tarran hinta: ");
-            double price = double.Parse(Console.ReadLine());
+                Console.Write("Anna tarran hinta: ");
+                double price = double.Parse(Console.ReadLine());
 
                 Console.WriteLine();
 
@@ -73,20 +76,14 @@ namespace wannabevandal
 
             }
 
-           // Sticker.SortByCreationYear(stickers);
-           // Sticker.SortByStickerName(stickers);
-           //   Sticker.SortByArtistName(stickers);
-          //   Sticker.SortByColour(stickers);
-
-
 
             Console.WriteLine("Tulostan tarrojen tiedot valitsemassasi järjestyksessä");
             Console.WriteLine("Tarrat A-Ö : 1");
             Console.WriteLine("Taiteilijat A-Ö : 2");
-            Console.WriteLine("Tekovuosi : 3");
+            Console.WriteLine("Tekovuosi (uusin ensin) : 3");
             Console.WriteLine("Värit ryhmittäin : 4");
-            
-            
+
+
             int input = int.Parse(Console.ReadLine());
 
             switch (input)
@@ -102,12 +99,25 @@ namespace wannabevandal
                     break;
                 case 4:
                     Sticker.SortByColour(stickers);  //koska tää on erilainen kuin nuo muut ja luuppaa jo metodin sisällä, tän ei pidä mennä tohon allaolevaan luuppiin
-                   // return;   ei ollut hyvä vaihtoehto, koska se sulkee koko ohjelman
-                   goto EndofProgram;  //mutta tämä vaikuttaa hauskalta, ja toimii. Tällä päästiin tuon luupin ohi valittuun kohtaan ohjelmassa.  
+                                                     // tosin enää ei ookaan tuossa alla luuppia, koska laitoin sen tonne funktioksi. Mut kumminki, case 4 ohittaa
+                                                     // nyt tuon StickerInfon kutsumisen
+                                                     // return;   ei ollut hyvä vaihtoehto, koska se sulkee koko ohjelman
+                    goto EndofProgram;  //mutta tämä vaikuttaa hauskalta, ja toimii. Tällä päästiin tuon StickerInfon ohi valittuun kohtaan ohjelmassa.  
             }
 
 
 
+            StickerInfo(stickers);
+
+
+        EndofProgram:  // tänne tullaan tuolta switchin case4:stä
+
+
+            Console.ReadKey();
+        }
+
+        public static void StickerInfo(List<Sticker> stickers)
+        {
 
             foreach (Sticker sticker in stickers)
             {
@@ -118,12 +128,10 @@ namespace wannabevandal
                 Console.WriteLine();
             }
 
-            
-            
-            EndofProgram:  // tänne tullaan tuolta switchin case4:stä
 
-
-            Console.ReadKey();
         }
+
+
+
     }
 }
