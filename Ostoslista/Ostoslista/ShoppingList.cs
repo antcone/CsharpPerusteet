@@ -37,6 +37,15 @@ namespace Ostoslista
             Sum += temp.Price;  // Pyöristä 5 senttiin...tai ei pyöristetäkään, koska digitaalista rahnua
         }
 
+        public void PrintProduct()
+        {
+            for(int i = 0; i < Products.Count; i++)
+            {
+                Console.WriteLine($"{i+1}. {Products[i].Name}\t\t\t{Products[i].Price}");
+            }
+
+        }
+
 
     }
 }

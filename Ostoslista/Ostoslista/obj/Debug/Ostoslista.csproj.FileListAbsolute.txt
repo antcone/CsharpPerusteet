@@ -5,3 +5,10 @@ C:\Users\maiju.siltaniemi\source\repos\Ostoslista\Ostoslista\obj\Debug\Ostoslist
 C:\Users\maiju.siltaniemi\source\repos\Ostoslista\Ostoslista\obj\Debug\Ostoslista.csproj.CoreCompileInputs.cache
 C:\Users\maiju.siltaniemi\source\repos\Ostoslista\Ostoslista\obj\Debug\Ostoslista.exe
 C:\Users\maiju.siltaniemi\source\repos\Ostoslista\Ostoslista\obj\Debug\Ostoslista.pdb
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\bin\Debug\Ostoslista.exe.config
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\bin\Debug\Ostoslista.exe
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\bin\Debug\Ostoslista.pdb
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.exe
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.pdb
