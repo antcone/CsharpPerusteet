@@ -1,0 +1,7 @@
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.csproj.AssemblyReference.cache
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.csproj.CoreCompileInputs.cache
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.exe.config
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.exe
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.pdb
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.exe
+C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.pdb
