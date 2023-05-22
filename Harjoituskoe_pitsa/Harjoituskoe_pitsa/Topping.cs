@@ -14,7 +14,6 @@ namespace Harjoituskoe_pitsa
         public Topping(string toppingName)
         {
             Name = toppingName;
-           
         }
 
 

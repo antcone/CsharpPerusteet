@@ -19,16 +19,35 @@ namespace Harjoituskoe_pitsa
             BasePrice = basePrice;
         }
 
-        public decimal CalculatePrice()
+        public Pizza()
         {
-            if (Toppings.Count > 3)
+            Toppings = new List<Topping>();
+            BasePrice = 15;
+
+        }
+
+        public decimal CalculatePrice()
+          
+        {
+            int freeToppings = 3;
+            decimal finalPrice = BasePrice;
+
+            if (Toppings.Count == 0)
             {
-                return BasePrice + Toppings.Count - 2;
+                finalPrice= BasePrice - BasePrice;
+            }
+
+            else if (Toppings.Count > freeToppings)
+            {
+                finalPrice = BasePrice + Toppings.Count - freeToppings;
             }
 
             else
-                return BasePrice;
+            {
+                
+            }
 
+            return finalPrice;
 
         }
 

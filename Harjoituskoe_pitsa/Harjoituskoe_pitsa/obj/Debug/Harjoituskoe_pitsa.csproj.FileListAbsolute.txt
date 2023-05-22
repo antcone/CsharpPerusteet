@@ -5,3 +5,10 @@ C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harj
 C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.pdb
 C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.exe
 C:\Users\thlas\source\repos\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.pdb
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.exe.config
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.exe
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\bin\Debug\Harjoituskoe_pitsa.pdb
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.csprojAssemblyReference.cache
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.csproj.CoreCompileInputs.cache
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.exe
+C:\Users\maiju.siltaniemi\Documents\GitHub\CsharpPerusteet\Harjoituskoe_pitsa\Harjoituskoe_pitsa\obj\Debug\Harjoituskoe_pitsa.pdb
